@@ -1,0 +1,9 @@
+streamlit
+pandas
+langchain
+faiss-cpu
+fuzzywuzzy
+transformers
+sentence-transformers
+numpy
+langchain-community
